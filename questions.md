@@ -14,10 +14,10 @@ A host receives a frame and discards it because it is corrupt, at which layer in
 
 What are the two types of IP address available for internet communication:
 
- - [ ] IPv1 and IPv2
- - [ ] IPv4 and IPv6
- - [ ] IPv4 and IPvNEXT
- - [ ] None of the Above
+ - [ ] IPv1 (10-bit) and IPv4 (32-bit)
+ - [ ] IPv4 (32-bit) and IPv6 (128-bit)
+ - [ ] IPv4 (24-bit) and IPvNEXT (1024-bit)
+ - [ ] IPv4 (24-bit) and IPv6 (32-bit)
 
 # Question 3
 
@@ -30,7 +30,7 @@ Select _all of the options_ below that are true of the OSI 7-Layer model:
 
 # Questions 4
 
-What is the primary functions of the transport layer:
+What is the primary function of the transport layer:
 
  - [ ] Reliable transmission of data frames between two nodes.
  - [ ] Routing of traffic across a network.
@@ -43,7 +43,7 @@ What is the correct CIDR representation of the network 192.168.254.0 with mask 2
 
  - [ ] Class C
  - [ ] 192.168.254.1/16
- - [ ] 192.168.254.1/24
+ - [ ] 192.168.254.0/24
  - [ ] 255.255.255.0/32
 
 # Question 6
